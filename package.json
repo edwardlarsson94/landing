@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
-  "scripts": {
-    "deploy": "gh-pages -d src"
-  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/edwardlarsson94/landing.git"
